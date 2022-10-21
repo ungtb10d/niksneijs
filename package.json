@@ -1,0 +1,22 @@
+{
+  "name": "@ungtb10d/niksneijs",
+  "version": "1.2.0",
+  "description": "niksneiJS says 'niksnei!' to the JS and stops execution",
+  "main": "niksnei.js",
+  "scripts": {
+    "build": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ungtb10d/niksneijs.git"
+  },
+  "author": "ungtb10d",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ungtb10d/niksneijs/issues"
+  },
+  "homepage": "https://github.com/ungtb10d/niksneijs#readme",
+  "devDependencies": {
+    "webpack": "^2.3.1"
+  }
+}
